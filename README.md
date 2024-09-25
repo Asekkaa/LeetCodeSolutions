@@ -46,7 +46,7 @@ Contributions are welcome! If you would like to add your solutions, please fork 
 
     Feel free to run the code in your preferred environment or modify it as needed.
 
-License
+##License
 
 This repository is open-source and available under the MIT License.
 
