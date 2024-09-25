@@ -22,10 +22,8 @@ This repository includes solutions in the following programming languages:
 - Python
 - Java
 - C++
-- JavaScript
-- Ruby
-- Go
-- (Add any other languages you plan to include)
+- MySql
+- OracleSql
 
 ## Contribution Guidelines
 
